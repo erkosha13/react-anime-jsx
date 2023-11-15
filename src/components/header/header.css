@@ -1,0 +1,57 @@
+.header{
+  padding: 30px;
+  background-color:#595959;
+}
+.wrapper{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.func{
+  display: flex;
+  align-items:center;
+}
+
+.func img{
+  width: 120px;
+}
+
+.poisk-num-card{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.num-cards input{
+  width: 30px;
+  margin-right: 5px;
+}
+
+@media screen and (max-width: 768px) {
+
+  .wrapper{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .poisk-num-card{
+    display: flex;
+    justify-content: flex-end;
+    max-width: 250px;
+    width: 100%;
+    gap: 5px;
+  }
+}
+
+@media screen and (max-width: 420px){
+
+  .poisk-num-card{
+    display: flex;
+    justify-content: flex-end;
+    max-width: 150px;
+    width: 100%;
+  }
+}
