@@ -1,13 +1,13 @@
 # React + Vite
 
-**Stack:**
+Stack:
 
-+Handling Events
-+Hooks
-+Conditional Rendering
-+Portals
-+Dynamic interface
-+Axios
-+Error Boundaries
+- Handling Events
+- Hooks
+- Conditional Rendering
+- Portals
+- Dynamic interface
+- Axios
+- Error Boundaries
 
-![] (https://imgur.com/wdpXaG0)
+![site](https://i.imgur.com/wdpXaG0.png)
