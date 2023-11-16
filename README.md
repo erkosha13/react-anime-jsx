@@ -10,4 +10,5 @@ Stack:
 - Axios
 - Error Boundaries
 
+Deploy : https://erkosha13.github.io/react-anime-jsx/
 ![site](https://i.imgur.com/wdpXaG0.png)
